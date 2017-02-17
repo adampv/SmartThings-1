@@ -15,7 +15,7 @@ do
 done
 
 case "$macadresser" in
- *60:F1:89:10:6E:1F*)
+ *XX:XX:XX:XX:XX:XX*)
  Adam=Home
  ;;
 esac
